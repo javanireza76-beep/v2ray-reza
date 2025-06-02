@@ -137,3 +137,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?type=grpc&mode=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram:&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://Parsashonam-231@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
 vless://Parsashonam-231@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.75:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@13.36.250.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.107.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@13.36.250.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
