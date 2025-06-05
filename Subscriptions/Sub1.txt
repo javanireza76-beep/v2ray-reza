@@ -185,3 +185,5 @@ vless://c4929932-34f8-46dd-8cd6-7b1539dc4416@104.18.27.94:443?encryption=none&se
 trojan://telegram-id-privatevpns@35.180.8.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@35.180.8.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://27073304-b25d-4631-ae25-37171bdecf99@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmad.mmadvip8563.ir&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
