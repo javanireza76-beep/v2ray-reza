@@ -18,3 +18,5 @@ vless://01e09d56-4242-439f-a180-939273b1df4b@104.19.54.50:8080?path=%2F%40XvProx
 vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://5a69588c-ac50-4365-99b0-bf6031bec968@157.230.17.102:46278?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.236.59.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://1be972af-90f5-4ce7-88bc-188ec4122082@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
