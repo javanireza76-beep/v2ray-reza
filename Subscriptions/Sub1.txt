@@ -122,3 +122,8 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@tr.accesspoints.cloakify.app:28495?
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#🔥Join+Telegram:@Farah_VPN🟣
 vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=none&encryption=none&host=Channel---VPNCUSTOMIZE.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.188.211.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.188.211.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FTelegram%40AstroVPN_Official%2F%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#🔥Join+Telegram:@Farah_VPN🟣
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2FTelegram%40AstroVPN_Official%2F%3Fed%3D2560security%3Dtls&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:443/?type=ws&encryption=none&flow=&host=Channel--MOSIV2--MOSIV2.IR&path=%2FChannel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2%3Fed%3D2560&security=tls&sni=Channel--MOSIV2--MOSIV2.IR&allowInsecure=1&fp=qq#🔥Join+Telegram:@Farah_VPN🟣
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🔥Join+Telegram:@Farah_VPN🟣
