@@ -160,3 +160,7 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880/?type=ws&encryp
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.29:8880/?type=ws&encryption=none&flow=&host=hk.laoyoutiao.link&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.133:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.29:8880/?type=ws&encryption=none&flow=&host=hk.laoyoutiao.link&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.122.81.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.122.81.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://V2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#🔥Join+Telegram:@Farah_VPN🟣
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@162.19.249.240:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🔥Join+Telegram:@Farah_VPN🟣
