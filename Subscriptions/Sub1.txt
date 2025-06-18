@@ -40,3 +40,7 @@ trojan://telegram-id-privatevpns@3.122.126.53:22222?security=tls&alpn=http/1.1&h
 vless://38b41ed4-5fe2-4868-8016-8df32dcaed78@pic.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic.zarashop0.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.122.126.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://9d212465-74ce-4cba-c171-5f78fe59aae5@213.176.67.170:20953?flow=xtls-rprx-vision&fp=chrome&pbk=AtrorcwpBi7FrlA8EOTvEWsKN3iMgwKs4H3I-79ukyw&security=reality&sni=sourceforge.net&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c6763909-34f1-4b80-9522-f70d930e90e6@134.199.209.130:56702?security=tls&flow=xtls-rprx-vision-udp443&sni=addons.mozilla.org&fp=firefox&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36441#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36731#🔥Join+Telegram:@Farah_VPN🟣
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@45.131.5.12:80?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2048&security=none&encryption=none&host=PaMCHALL.cOM.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
