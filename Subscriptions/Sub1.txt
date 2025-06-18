@@ -187,3 +187,4 @@ vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.130.228:80?security=none&ty
 trojan://telegram-id-privatevpns@18.195.228.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+vless://b2f5ba5a-8bbc-4127-b5f9-f6263dd8c0f6@arman.api.cdn-ir.uplinker.sbs:9005?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=server-14043.prod.hosts.ooklaserver.net#🔥Join+Telegram:@Farah_VPN🟣
