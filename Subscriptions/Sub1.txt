@@ -187,3 +187,8 @@ vless://9f53d9dc-8e5d-4a96-d940-fb542631e1e4@162.247.5.91:443?security=tls&sni=t
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.119.223:59483?security=auto&type=grpc&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.24.247.217:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#🔥Join+Telegram:@Farah_VPN🟣
+vless://4c12cf11-2091-434f-b323-5ac31100dc5b@104.17.147.22:8880?type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@68.183.199.29:23492?security=tls&sni=dir21.amosrellyek.ir&type=ws&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.189.16:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://5739b108-2580-43cd-ae0b-060876a60f66@104.17.148.22:2095?type=httpupgrade&host=h1.N.iranshopering.ir.&path=%2F%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@138.197.162.45:23492?security=tls&sni=rel21.amosrelldow.ir&type=ws&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
