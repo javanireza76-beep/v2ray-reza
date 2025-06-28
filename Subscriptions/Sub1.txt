@@ -153,3 +153,6 @@ vless://b164d11d-2b87-43e5-9f1d-5822fa4a88be@151.101.3.8:80?mode=stream-up&path=
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Shupyghb.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=Zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://7907db1c-bbab-4ea5-b032-281300c2ece2@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=peroll.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@51.44.163.247:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@52.16.182.238:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@188.164.159.248:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
