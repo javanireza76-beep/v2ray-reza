@@ -181,3 +181,6 @@ vless://05badb9a-9b94-4a07-85af-65bdc2e1c4bf@172.64.80.173:2096?security=tls&sni
 vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@190.93.246.124:443?security=tls&sni=liu133.us.kg&type=ws&host=liu133.us.kg&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-v2rayvpnchannel@13.37.129.243:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.82.196.75:80?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?encryption=none&security=tls&sni=GgGgr.PaGES.dEV&type=ws&host=GgGgr.PaGES.dEV#🔥Join+Telegram:@Farah_VPN🟣
+vless://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443?encryption=none&security=tls&sni=Work-YUU00.pageS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=work-yuu00.pages.dev&path=%2FeV7rSmW1vSuuGIQO%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+vless://dfd10514-eb94-4001-8923-eae8a289d711@151.101.2.165:80?type=ws&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
