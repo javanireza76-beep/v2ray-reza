@@ -145,4 +145,4 @@ trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?allowInsecure=0&
 trojan://113b0562-5018-4533-8268-ebb5bb5e5433@h2de.gzcloud.shop:443?allowInsecure=0&sni=h2de.gzcloud.shop#🔥Join+Telegram:@Farah_VPN🟣
 trojan://$_qP4V4U26sb{04A@do-itforyou.pages.dev:2083?security=tls&sni=do-itfORYOU.PAGEs.deV&fp=chrome&alpn=http/1.1&type=ws&path=/trdFPAI0ljLLOygN2y?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
-trojan://0000000@3.168.86.35:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://0000000@3.168.86.26:443?security=tls&sni=www.lovelive-anime.jp&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
