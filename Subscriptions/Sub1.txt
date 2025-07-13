@@ -16,3 +16,11 @@ vless://aa60ccd4-d265-4a32-9415-c175e8f8b323@135.181.193.128:443?security=realit
 vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ARM1.dollardoon.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://56e027a9-5ad8-40b0-9d20-c2559e915820@172.64.34.232:443?security=tls&sni=gtxbm4.isfshzist.com&type=ws&host=gtxbm4.isfshzist.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.223.228.164:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE2OS4xNTAuMjA4LjgzIiwgInBvcnQiOiAxODAwMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.92.34.202:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.30:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.246.47.66:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.217.9.19:2222?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://cacbbaa-caba-aacb-bacd-abbbcacabcca@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc2.5gsieuvip.vn:443?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#🔥Join+Telegram:@Farah_VPN🟣
