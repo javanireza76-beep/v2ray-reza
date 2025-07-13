@@ -144,13 +144,14 @@ trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=d5e7#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=tcp&sni=usable-toad.treefrog761.one#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.143.101:6668?allowInsecure=1&sni=baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002?security=tls&sni=v2tw01.fuqiangren.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=%2FtrWCuRIwSn9S6fDZGE%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=MaHSA2.cffoRm.SitE#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3763495894587285504@35.180.240.183:443?security=tls&amp;sni=honest-cow.goat627.mom&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🔥Join+Telegram:@Farah_VPN🟣
@@ -161,4 +162,3 @@ trojan://telegram-id-privatevpns@18.199.233.194:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@63.177.166.9:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.69.141.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@13.39.183.85:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
