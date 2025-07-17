@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0ubmV0YmF6Y2hhbmVsbC5pci4iLCAiaWQiOiAiZDcwZjVmOGUtNzY5NC00ZGZmLTk1ZWYtY2MxNDcyZTMxNWRjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE1OCIsICJwb3J0IjogIjUwMDUyIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI0NS4xNTkuNTEuMTE2IiwgInBvcnQiOiAiNDgwMTkiLCAiaWQiOiAiYzA2Nzk3ZDUtZmE0MS00YjQ4LWIxMzItZDI2OGQyYWNiMzAyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
 vmess://eyJhZGQiOiAiMTcyLjY3LjEzNS42MiIsICJhaWQiOiAwLCAiaG9zdCI6ICJoa25ieWl2ZmZmai5zaXRlIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmJxcXZ3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
@@ -86,6 +87,7 @@ vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#🔥Join+Telegram:@Farah_VPN🟣
@@ -130,3 +132,4 @@ ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.500:443#🔥Join+Telegram:@Far
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.510:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.520:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.530:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.540:443#🔥Join+Telegram:@Farah_VPN🟣
