@@ -167,5 +167,6 @@ trojan://telegram-id-directvpn@3.220.236.149:22222?security=tls&sni=trojan.burge
 trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://QwwHvrnN@36.151.192.239:42395?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@51.24.38.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@63.176.8.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=/#🔥Join+Telegram:@Farah_VPN🟣
