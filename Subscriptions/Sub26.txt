@@ -178,3 +178,7 @@ trojan://telegram-id-privatevpns@34.254.18.218:22222?security=tls&type=tcp&sni=t
 trojan://telegram-id-privatevpns@35.180.162.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.44.197.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@185.148.107.210:443?allowInsecure=1&sni=b.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.26.15.133:443?sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.19.251.164:443?security=tls&type=ws&sni=hb.lii2010.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+trojan://blue2024@104.129.164.93:443?allowInsecure=1&sni=b.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
