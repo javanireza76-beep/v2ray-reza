@@ -174,6 +174,7 @@ trojan://Aimer@92.243.74.180:8443?type=ws&sni=tyep.esslh.filegear-sg.me&path=/&h
 trojan://SdCqFLcA@36.151.251.57:40252?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@27.50.48.126:2083?sni=tyep.esslh.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=1&sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@52.58.120.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.58.120.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@sullivan.ns.cloudflare.com:443?allowInsecure=0&sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
@@ -217,4 +218,3 @@ trojan://blue2024@whatismyipaddress.com:443?allowInsecure=1&sni=ta.promote.icu#�
 trojan://blue2024@104.20.212.47:443?allowInsecure=1&sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@162.159.133.85:443?allowInsecure=1&sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@162.159.130.124:443?allowInsecure=1&sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
-trojan://blue2024@172.67.120.0:443?allowInsecure=1&sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
