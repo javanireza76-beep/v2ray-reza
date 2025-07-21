@@ -192,10 +192,3 @@ trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.131.76:443/?type=grpc&servi
 trojan://telegram-id-directvpn@52.47.143.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@54.170.35.253:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@63.176.186.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@172.66.42.99:443?#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@104.24.10.122:443?#🔥Join+Telegram:@Farah_VPN🟣
-trojan://WOeXShhJpL@172.67.67.64:443?security=tls&type=ws&sni=09jzus.zdzdzd.xyz&path=/juzigongyi&host=09jzus.zdzdzd.xyz#🔥Join+Telegram:@Farah_VPN🟣
-trojan://blue2024@172.64.131.249:443?allowInsecure=1&sni=ta.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@185.159.247.167:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#🔥Join+Telegram:@Farah_VPN🟣
-trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#🔥Join+Telegram:@Farah_VPN🟣
