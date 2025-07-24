@@ -53,3 +53,7 @@ vless://d539282c-bf6f-4865-88f7-ab33f9f1ec20@104.26.14.85:80?security=none&type=
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80/?type=ws&encryption=none&flow=&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://f11b2b93-7ced-425b-97f9-b3439af05485@nl.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://f11b2b93-7ced-425b-97f9-b3439af05485@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://4f04e115-f06f-4b03-8a72-884f09a80f86@nl.caponetwork.ir:4040?security=none&type=tcp&headerType=http&path=%2Fpath&host=varzesh3.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?security=none&encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://7eced508-d013-4079-b4d9-50d02c715f9b@nl.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.178.130.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
