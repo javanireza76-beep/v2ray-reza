@@ -178,6 +178,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@43.199.75.50:8313#🔥Join+T
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@43.199.75.50:8316?prefix ¨#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.21.221:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dUpjc0oySzBVQ2t5bFo3bmwzS3Zm@78.129.140.11:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?type=ws&security=tls&path=/Tel-@V2ray_Alpha&host=vpn.stupidworld.web.id&fp=chrome&sni=vpn.stupidworld.web.id#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f2ab1dd0-3f0f-11f0-a0bc-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&encryption=none&pbk=1gKloUYtea1EJfBcatiTkmJVdCbb6SfVrnL6Lz-RYj0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=42#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fed92b60-489d-11f0-8257-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -197,4 +199,3 @@ trojan://tunnel-astrovpn_official@fr-2.stunnel.cc:8441?path=AstroVPN_Official-As
 trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bbaacca-caab-acab-cadb-bbaccabcbcaa@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@43.198.225.231:40091?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
