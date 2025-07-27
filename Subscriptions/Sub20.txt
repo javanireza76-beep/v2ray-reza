@@ -199,6 +199,7 @@ ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.380:443#🔥Join+Telegram:@Far
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.420:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.440:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.450:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.236.27.95:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@162.159.133.68:443?sni=epccu.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@23.227.60.8:443?security=tls&amp;sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://361ddf70-1af3-11f0-9a84-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -265,4 +266,3 @@ trojan://telegram-id-privatevpns@51.44.232.118:22222?security=tls&amp;alpn=http/
 trojan://0d80ec40-34de-11f0-8ecc-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&amp;sni=z-v2-080537.kailib.com&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Aimer@154.17.228.203:443?allowInsecure=0&amp;sni=epccv.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
-trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
