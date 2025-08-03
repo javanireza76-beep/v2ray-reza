@@ -202,7 +202,6 @@ ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.540:443#🔥Join+Telegram:@Far
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2250:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2350:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2650:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-privatevpns@52.59.87.241:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?security=tls&amp;type=ws&amp;sni=5ttt.191288.xyz&amp;path=/BFBuPh4SuxTxCwkqKrjE&amp;host=5ttt.191288.xyz#🔥Join+Telegram:@Farah_VPN🟣
 trojan://edde4440-1af3-11f0-b64f-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.47.166.120:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -268,5 +267,6 @@ trojan://95b1bf00-29cc-11f0-ab96-1239d0255272@fr1.test3.net:443?security=tls&amp
 trojan://telegram-id-directvpn@13.39.192.171:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://010bd080-2133-11f0-a064-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3058cb40-34de-11f0-92d9-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@160.79.105.160:8443?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Aimer@160.79.105.156:2083?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@31.43.179.27:443?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:181?sni=www.baidu.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Aimer@167.68.4.131:8443?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
