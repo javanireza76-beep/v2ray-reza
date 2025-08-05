@@ -1,7 +1,7 @@
 ss://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh23v4.hiddendom.shop#🔥Join+Telegram:@Farah_VPN🟣
 vless://-----v2ray_fark-----@103.160.204.88:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
-vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
-vless://-----v2ray_fark-----@103.160.204.92:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
-vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🔥Join+Telegram:@Farah_VPN🟣
+vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh23v4.hiddendom.shop#🔥Join+Telegram:@Farah_VPN🟣
+vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
+vless://-----v2ray_fark-----@103.160.204.92:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🔥Join+Telegram:@Farah_VPN🟣
