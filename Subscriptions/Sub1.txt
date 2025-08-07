@@ -172,3 +172,12 @@ vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?s
 trojan://NISHIKUITAN111@94.242.229.89:443?allowInsecure=1&sni=za.ylks.xyz&ws=1&wspath=%2F%2F#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@62.72.166.57:443?allowInsecure=1&sni=za.ylks.xyz&ws=1&wspath=%2F%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#🔥Join+Telegram:@Farah_VPN🟣
+vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@18.192.173.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://aacbcab-caba-abac-dbca-bacaacbccbab@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://a20b98fa-b807-4847-a6c4-e54b72391221@or.looksvpn.okreza151m.ir:9901?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://d677c858-be32-4424-e83a-bbcd4a6f086a@185.211.59.246:1096?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fv2ray_configs_pools%3Dzani.yaemiko.ggff.net%2F%3Fv2ray_configs_pools_bia_chanel@v2ray_configs_pools#🔥Join+Telegram:@Farah_VPN🟣
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.247.117:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.162.60:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
