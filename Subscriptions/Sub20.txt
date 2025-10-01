@@ -94,7 +94,6 @@ ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.159:7307#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#🔥Join+Telegram:@Farah_VPN🟣
-trojan://NISHIKUITAN111@173.245.58.140:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@172.64.49.211:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@172.66.207.49:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@usla.mjt000.com:443?sni=usla.mjt000.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -121,3 +120,9 @@ trojan://NISHIKUITAN111@104.19.166.187:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@167.68.11.173:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.27.44.212:443?#🔥Join+Telegram:@Farah_VPN🟣
 trojan://NISHIKUITAN111@104.18.18.138:443?#🔥Join+Telegram:@Farah_VPN🟣
+trojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.66.228:443?security=tls&type=ws&sni=seminarsinmcb.faculty.ucdavis.edu&host=example.ir#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.237.11.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.15.98.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.47.122.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://trojan@38.207.133.204:10002?encryption=none&security=tls&sni=qingming-b08.pages.dev&fp=chrome&type=ws&host=qingming-b08.pages.dev&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
+trojan://tunnel-astrovpn_official_pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
