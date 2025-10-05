@@ -68,6 +68,7 @@ vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets#🔥Join+Telegram:@Farah_VPN🟣
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com@V2rayNGVPN <= کانفیگ رایگان#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#🔥Join+Telegram:@Farah_VPN🟣
@@ -102,4 +103,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🔥Join+Teleg
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#🔥Join+Telegram:@Farah_VPN🟣
