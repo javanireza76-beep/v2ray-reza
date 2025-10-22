@@ -121,8 +121,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaQ3B3MGYxalo5NWtRMU0wNWlldFI2@104.192.227.162:443#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRENCd0t4clFFVW1FWmMycVEyT0M5@212.192.14.224:57995#🔥Join+Telegram:@Farah_VPN🟣
-trojan://1469e09e-027c-11ec-a0fc-f23c913c8d2b@204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com:27231?security=tls&amp;sni=204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@15.236.214.234:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@ip.sb:8443?encryption=none&amp;security=tls&amp;sni=fofang.pages.dev&amp;fp=random&amp;type=ws&amp;host=fofang.pages.dev&amp;path=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bpb-trojan@172.66.47.53:443?security=tls&amp;type=ws&amp;sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&amp;path=/trSo3btsDgOHHUM6Nb&amp;host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.236.214.234:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -162,3 +160,5 @@ trojan://telegram-id-privatevpns@15.188.109.144:22222?security=tls&amp;alpn=http
 trojan://bbacaac-caba-aacb-dcab-caacabbcbacb@127.0.0.1:1080?security=tls&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?encryption=none&amp;security=tls&amp;sni=azadnet-bdr.pages.dev&amp;type=ws&amp;host=azadnet-bdr.pages.dev&amp;path=%2Fazadnet-bdr.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Telegram-DailyConfigs@104.18.14.8:443?security=tls&amp;type=ws&amp;sni=kanale-daily-configs.blackoutconnection.ir&amp;path=/?ed=2560&amp;host=kanale-daily-configs.blackoutconnection.ir#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.127.95.57:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@51.44.54.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
