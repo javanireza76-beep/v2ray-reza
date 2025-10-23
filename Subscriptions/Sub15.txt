@@ -141,7 +141,6 @@ trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&path=%2f#🔥Join+Telegram:@Farah_VPN🟣
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&path=%2f#🔥Join+Telegram:@Farah_VPN🟣
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&host=glowingpickle.bananatornado.click&path=%2f#🔥Join+Telegram:@Farah_VPN🟣
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&type=grpc&sni=cloudflare.com&sid=2e#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&type=grpc&path=%2f#🔥Join+Telegram:@Farah_VPN🟣
@@ -166,3 +165,4 @@ trojan://telegram-id-privatevpns@18.157.240.119:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@51.45.18.222:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.236.184.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@18.153.47.127:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.67.23.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
