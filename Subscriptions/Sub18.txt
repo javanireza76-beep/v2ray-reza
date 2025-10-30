@@ -97,6 +97,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@13.39.250.5:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.236.165.170:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@www.visa.com.sg:8443?encryption=none&amp;security=tls&amp;sni=sunnyfish.pages.dev&amp;fp=random&amp;type=ws&amp;host=sunnyfish.pages.dev&amp;path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.176.100.75:22222?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@54.220.119.47:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -128,5 +130,3 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@153.121.41.97:4452?security=tls&amp;he
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12103/?type=tcp&amp;security=tls&amp;sni=116.yuanul.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.top&amp;type=ws&amp;path=static34528&amp;host=fadaei.movieland.top#🔥Join+Telegram:@Farah_VPN🟣
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?security=tls&amp;sni=mmbiz10.redapricotcloud.com&amp;type=tcp&amp;headerType=none#🔥Join+Telegram:@Farah_VPN🟣
