@@ -95,3 +95,7 @@ vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?encryption=none&se
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?type=grpc&mode=gun&serviceName=t.me/entryNET&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.182.84.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2+%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206MjY5YzI4NDctMjVlMC00NTkzLWEzZDAtNGVjZTg0YTI1ZmEy@77.110.110.240:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://58c741fe-d085-542e-a5f7-d4cfbc410797@104.19.206.34:80?security=none&sni=242b9.olielielie.store.&type=ws&path=/vless#🔥Join+Telegram:@Farah_VPN🟣
+vless://0633b702-be93-46d9-a8fc-aee90779dc8f@156.229.48.254:443?security=tls&sni=g1.nanvaiiisaeed.ir&type=ws&host=g1.nanvaiiisaeed.ir&path=%2FAOagIIfbJJ0hbXIwCE6mq&fp=firefox&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?security=tls&sni=mahdiv2.pages.dev&type=ws&host=mahdiv2.pages.dev&path=%2F%3Fed%3D2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145572148.prague-drcn-aaaai.info:8880?mode=gun&security=&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
