@@ -113,6 +113,7 @@ trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?path=/tw&security=tls&type=ws&sni=a913a5b91ce37ed2.noproblemvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@156.67.63.183:11000?path=/tw&security=tls&type=ws&sni=noproblemvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@156.67.63.183:11000?path=/tw&security=tls&type=ws&sni=noproblemvpn.ru&note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@194.35.116.62:11000?path=/tw&security=tls&type=ws&sni=f4e23c6c168f0e91.noproblemvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@37.220.84.91:11000?path=/tw&security=tls&type=ws&sni=688ee466b9661097.noproblemvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@38.180.45.61:11000?path=/tw&security=tls&type=ws&sni=noproblemvpn.ru#🔥Join+Telegram:@Farah_VPN🟣
@@ -129,4 +130,3 @@ trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerT
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?path=/Free-VPN-CF-Geo-Project/89.28.236.243=443&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
-trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=/Free-VPN-CF-Geo-Project/51.89.128.93=44004&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
