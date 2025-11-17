@@ -96,3 +96,4 @@ vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://d0f2849a-b22f-4169-83fa-424fc1473af4@sr72.pikillyou.sbs:2082?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.78:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://24642aba-9ac9-a300-1c94-5d417d79a736@91.98.144.35:2021?mode=gun&security=reality&encryption=none&pbk=IdgYdnSXaE15ASlBDisYvm9YM2b_T5CYZh1zI9HXNgw&fp=chrome&type=grpc&serviceName=telekom.com&sni=telekom.com&sid=e31acf629f3850de#🔥Join+Telegram:@Farah_VPN🟣
