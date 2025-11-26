@@ -133,3 +133,5 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@31.129.48.139:443?security=tls&sni=
 vless://6af4e739-10b0-4e34-b4b2-21d6df07f160@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&security=tls&sni=epicgames.com&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@cone-snail.unity4world.ir:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+vless://382057df-2f09-4d64-d9c3-f23364286fda@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
