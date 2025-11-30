@@ -63,3 +63,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@124.153.214.6:10001?security=tls&sn
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@80.251.213.234:8443?security=tls&sni=global2.ccdd.site&type=ws&path=%2F%3Fed#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@89.46.239.231:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUjdDdGprZDVScnM4N3l3ajVKRktm@212.113.106.76:61992#🔥Join+Telegram:@Farah_VPN🟣
+vless://149dcabd-b228-4a38-9f6a-cc0d89666d08@USAGE.COM:7654?security=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#🔥Join+Telegram:@Farah_VPN🟣
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#🔥Join+Telegram:@Farah_VPN🟣
