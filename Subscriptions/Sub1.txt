@@ -111,3 +111,7 @@ vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.232.161:8080?path=%2F%3Fed%2
 vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@45.154.96.185:2565?security=none&encryption=none&host=avidmehregan.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@162.159.153.99:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#🔥Join+Telegram:@Farah_VPN🟣
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@162.159.152.70:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔥Join+Telegram:@Farah_VPN🟣
