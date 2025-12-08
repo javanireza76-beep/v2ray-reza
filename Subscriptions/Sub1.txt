@@ -140,3 +140,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&securit
 trojan://telegram-id-directvpn@13.37.31.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3030?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581?security=reality&encryption=none&pbk=EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://6035325d-399a-5148-9126-29cedfd5966a@5.180.52.11:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=pkZa9TardvnaDfimseVPbjDc13ZjSar2zWtbdhFmTFQ&sid=aa9d9548&packetEncoding=xudp#🔥Join+Telegram:@Farah_VPN🟣
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@77.73.131.77:2053/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org#🔥Join+Telegram:@Farah_VPN🟣
