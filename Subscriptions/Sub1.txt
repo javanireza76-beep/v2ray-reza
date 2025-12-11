@@ -87,3 +87,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?encryption=none&se
 vless://ea7370fa-8ff6-449b-aed3-89af062e593d@62.60.219.145:443?security=none&type=tcp&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@18.153.189.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@18.153.189.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
