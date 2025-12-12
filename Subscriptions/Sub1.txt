@@ -48,3 +48,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔥Jo
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#🔥Join+Telegram:@Farah_VPN🟣
 vless://b9c20ba9-da82-4082-a97a-977b4fbed67b@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=audreyfirst1.global.ssl.fastly.net&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=smart.zarnovia.info#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.57.200.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiOTEuOTkuMjcuNTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYzMDI1OTYxLTE2N2ItNGY0OS1lNGUzLTg2NTA1ZmU5ODBmZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODg4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://telegram-id-privatevpns@52.57.200.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://0f6b3594-b287-41cf-b21e-0a36915419d0@185.231.172.40:21934?security=reality&encryption=none&pbk=chdp3DttIw6MWQPEnmxam0FBnEiaEmZqrSX_iNA6TjE&headerType=none&fp=chrome&type=tcp&sni=www.chess.com&sid=76b170a276997fba#🔥Join+Telegram:@Farah_VPN🟣
+vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=%2Fajnexnws&security=tls&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639008791593418731.jimny-amsix.info#🔥Join+Telegram:@Farah_VPN🟣
