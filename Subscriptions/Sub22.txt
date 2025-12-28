@@ -109,9 +109,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#🔥Join+Telegram:@Farah_VPN🟣
-trojan://BxceQaOe@58.152.46.60:443?sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
-trojan://5a2c16f9@172.64.229.205:443?sni=snippets.kkii.eu.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://fa0370ed-8558-4d66-b257-d31d2a51e660@23.227.38.43:443?sni=1cyq93vs4amcu625.ukgogo202511.top#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5a2c16f9@162.159.128.253:443?sni=snippets.kkii.eu.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@202.181.103.235:2760?sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5a2c16f9@172.64.229.83:443?sni=snippets.kkii.eu.org#🔥Join+Telegram:@Farah_VPN🟣
@@ -146,3 +143,6 @@ trojan://25IYE1_dhFCBi6omM3qf9@144.202.8.250:23239/?type=tcp&security=tls&sni=ap
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443/?type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=/152.32.255.24:587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=/152.32.255.24:587&security=tls&insecure=0&host=tronblue.qzz.io&type=ws&allowInsecure=0&sni=tronblue.qzz.io#🔥Join+Telegram:@Farah_VPN🟣
+trojan://3ef03de40a234d209bb2d3807ca0d643@46.29.161.237:443/?type=tcp&security=tls&sni=46.29.161.237&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.57.238:2760/?type=tcp&security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
