@@ -95,3 +95,13 @@ vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=%2Fpanika&s
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://f6d37008-ecb4-4e26-d8b8-0c8f0fd13cd6@78.46.200.43:8880?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@desrv.vmagnum.win:57456#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.75.59:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#🔥Join+Telegram:@Farah_VPN🟣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=62B024db.bP-MiKa.PAGEs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=62b024Db.BP-mIKa.paGes.dEV&path=%2Fc1J51Rc2w3w2slYx%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiYXJ5YW4xLmhlbHNpbmtpMnVwbG9hZC5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInBvbmlzaGEuaXIiLCAiaWQiOiAiZTk5YTFmNDQtN2ZhMi00OWVlLTljMzktZjhjZDkzYWMyZWFhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMzEzMCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:8888#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.230.70.35:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9101#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://9bcb334a-4d93-4625-82db-50bba37eadc6@82.115.24.175:38001?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
