@@ -116,3 +116,5 @@ vless://660dfa6c-d94a-4df1-8910-c5df386355d1@104.31.16.104:80?security=none&type
 vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@104.21.94.168:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080#🔥Join+Telegram:@Farah_VPN🟣
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.104.152:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 vless://ffe6ffea-d8df-4efd-9fb1-ab093d6d0a2d@188.114.97.3:443?security=tls&sni=pPaL03.tavEN-Rydan.WORkeRS.dEv&type=ws&host=pPAl03.TAVEN-RYdaN.workerS.DeV&path=%2F6xPg0yhnfqt3FqVf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://86658621-899b-4c51-89ce-7ef44f247226@green2.cdntencentmusic.com:31101?security=tls&headerType=none&type=tcp&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://e728ebb5-fc0d-4feb-ad44-dfaea0d01dcd@cdn.aiteamplus.ir:11600?encryption=none&type=tcp&headerType=http&host=igap.net&path=/&security=none#🔥Join+Telegram:@Farah_VPN🟣
