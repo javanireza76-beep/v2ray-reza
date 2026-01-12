@@ -145,3 +145,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.211.102:2053?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:8443?security=tls&sni=BpbG.168168.Us.KG&type=ws&host=bPBG.168168.us.kG&path=/Y3ARBiXOAswTPjvQ/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.70.165.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.70.165.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://90a9e805-8cfa-4267-c000-a2d83d30f5cd@104.238.177.203:443?mode=gun&security=reality&encryption=none&pbk=ijU6uZyrP9phqNVhE9FtM3RFwbXgDUX5mDS9WQdBQE0&fp=safari&spx=%2F&type=grpc&sni=yahoo.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@147.45.196.103:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=raw&headertype=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://1c9faba3-e317-46c4-a3b6-b0ef4fb1c242@kelash.vip.mgodping12.xyz:443/?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
