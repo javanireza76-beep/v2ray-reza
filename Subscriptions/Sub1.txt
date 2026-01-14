@@ -104,3 +104,6 @@ vless://69a397ac-1a30-455f-a0ad-7c45c4c8ad16@portal.ofmdirect.com:23200?security
 trojan://telegram-id-directvpn@35.181.131.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@35.181.131.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://dc117fd8-6edd-444b-a56a-9cfee67f7257@158.160.202.13:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8ba12e75110b7a9c#🔥Join+Telegram:@Farah_VPN🟣
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.71.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔥Join+Telegram:@Farah_VPN🟣
+vless://d1e7f2d9-4cf8-4a00-b261-54c388f59a0e@108.162.195.157:443?security=tls&sni=njggpw.alligator27app.com&type=ws&host=njggpw.alligator27app.com&path=/wss&alpn=http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?security=tls&sni=xinf.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔥Join+Telegram:@Farah_VPN🟣
