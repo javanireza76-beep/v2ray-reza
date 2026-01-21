@@ -138,3 +138,6 @@ vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?path=vless-ws/?ed&sec
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#🔥Join+Telegram:@Farah_VPN🟣
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?mode=gun&security=reality&encryption=none&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=fada4f5f#🔥Join+Telegram:@Farah_VPN🟣
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2052?type=ws&host=WxVvVtZx22.hAmEdIgOlD.CoM&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+vless://6bad0e86-fba5-4221-a0aa-9d0c53059d5c@chatgpt.com:443?type=ws&encryption=none&path=%2F&host=online.taavoni.net&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=online.taavoni.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://1cedb51c-d74c-40af-8c3e-dcb70e8f8ee2@104.18.32.47:8443?path=%2Fc&security=tls&encryption=none&host=hel.asreabi.ir&fp=chrome&type=ws&sni=hel.asreabi.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://404606d3-fc87-4732-a9b0-c4a593b8afc1@mci.sulduz.pw:38064?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
