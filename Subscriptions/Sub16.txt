@@ -82,7 +82,6 @@ ss://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@78.159.131.76:443?security=reality&enc
 ss://e88e5f91-db2f-4e20-892b-081a4f0f5cf7@bouquetberlin.org:8443/?path=/vlessws&security=tls&encryption=none&insecure=0&host=bouquetberlin.org&type=ws&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
 ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.7:443?path=/&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-directvpn@3.69.92.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@35.181.179.223:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@35.181.179.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@51.44.43.148:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
@@ -110,3 +109,4 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://telegram-id-privatevpns@63.181.22.229:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.18.32.47:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.gossipglove.com#🔥Join+Telegram:@Farah_VPN🟣
