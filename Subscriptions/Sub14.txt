@@ -82,7 +82,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080?#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=www.nintendogames.net&insecure=1&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=ð [By EbraSha] &insecure=1&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=/f2fc2a1f&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🔥Join+Telegram:@Farah_VPN🟣
@@ -110,3 +109,4 @@ trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?sec#🔥Join+
 trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?security=tls&sni=de2c.buzzon.shop&alpn=http/1.1&fp=chrome&type=ws&host=de2c.buzzon.shop&path=/C7Uxy5S9pAi1VhW5NThds106#🔥Join+Telegram:@Farah_VPN🟣
 trojan://auto@108.162.195.209:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://b3a73d16-5d6e-45ad-8a73-314583408ec1@fic.buzzon.shop:443?path=/SpB9iu4m7MqdokB1leJ&security=tls&alpn=http/1.1&host=fic.buzzon.shop&fp=chrome&type=ws&sni=fic.buzzon.shop#🔥Join+Telegram:@Farah_VPN🟣
+trojan://b3a73d16-5d6e-45ad-8a73-314583408ec1@fic.buzzon.shop:443?path=/SpB9iu4m7MqdokB1leJ&security=tls&alpn=http/1.1&insecure=0&host=fic.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=fic.buzzon.shop#🔥Join+Telegram:@Farah_VPN🟣
