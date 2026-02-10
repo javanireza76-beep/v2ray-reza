@@ -1,3 +1,4 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE2MyIsICJwb3J0IjogIjU4ODMxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE2MSIsICJwb3J0IjogIjMzMjg4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMjAuMjMyLjE1My4yNyIsICJwb3J0IjogIjU4ODMxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE2MyIsICJwb3J0IjogNTg4MzEsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
@@ -82,6 +83,7 @@ vless://257c06fc-017f-4a1b-878a-d9611c046ee4@lit.litiran.ir:2083?security=tls&en
 vless://257c06fc-017f-4a1b-878a-d9611c046ee4@lit.litiran.ir:2083?security=tls&encryption=none&insecure=0&host=image-it.kafeistanbul.shop&type=ws&allowInsecure=0&sni=image-it.kafeistanbul.shop#🔥Join+Telegram:@Farah_VPN🟣
 vless://257c06fc-017f-4a1b-878a-d9611c046ee4@lit3.litiran.ir:2083?security=tls&encryption=none&insecure=0&host=image-alm2.vipshop2.shop&type=ws&allowInsecure=0&sni=image-alm2.vipshop2.shop#🔥Join+Telegram:@Farah_VPN🟣
 vless://257c06fc-017f-4a1b-878a-d9611c046ee4@v5.vipshopkar9.shop:8081?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://257c06fc-017f-4a1b-878a-d9611c046ee4@v5.vipshopkar9.shop:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#🔥Join+Telegram:@Farah_VPN🟣
@@ -124,3 +126,4 @@ ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.119.179.62:50007#🔥Join+Telegram:@Farah
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@46.165.254.155:50007#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@193.108.118.154:50007#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@185.219.134.52:50007#🔥Join+Telegram:@Farah_VPN🟣
