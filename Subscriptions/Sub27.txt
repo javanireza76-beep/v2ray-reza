@@ -31,12 +31,6 @@ vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJpbnNlY3VyZSI6ICIwIiwgIm5hbWUiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGV4cHJlc3NfYWxha2kiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDU2NTMsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiNDUuMTQxLjE0OC4xNDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYm1pLmlyIiwgImlkIjogImU3MjBkMmI2LTgwZGQtNDY2NC1iNjRlLTZjYzc4NGJjZTMyOSIsICJpbnNlY3VyZSI6ICIwIiwgIm5hbWUiOiAiQGNoaWxsZ3V5X3ZwbiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA1MDU5LCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTA0LjI2LjguMjEwIiwgInYiOiAyLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjIwNjI1OWZkLTA5YWYtNDZlZS1lYzZkLTVhYzhhODI5MWQ2ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1eWhnaXV5ZmV3ZHJnZi10bzEyMzQ1LnhpYW9oaGgueHl6IiwgInRscyI6ICJ0bHMiLCAicGF0aCI6ICIvNjYifQ==
-vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#🔥Join+Telegram:@Farah_VPN🟣
-vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?encryption=none&security=tls&sni=ax.tan3.ir&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=ax.tan3.ir&path=/&mode=auto#🔥Join+Telegram:@Farah_VPN🟣
-vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=ax.tan3.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ax.tan3.ir#🔥Join+Telegram:@Farah_VPN🟣
-vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=ax.tan3.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ax.tan3.ir#🔥Join+Telegram:@Farah_VPN🟣
-vless://1738e694-c8e3-46c1-bc15-b8136d3b6338@theip.iplist.cryo-networks.com:9560?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🔥Join+Telegram:@Farah_VPN🟣
-vless://1738e694-c8e3-46c1-bc15-b8136d3b6338@theip.iplist.cryo-networks.com:9560?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://1738e694-c8e3-46c1-bc15-b8136d3b6338@theip.iplist.cryo-networks.com:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://17c45b20-9128-4eaf-a444-15a394f7e77c@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.#🔥Join+Telegram:@Farah_VPN🟣
 vless://17d2e113-f0d2-4094-848e-a80496b3afba@185.201.50.149:443?path=/?ed=2048&security=&encryption=mlkem768x25519plus.native.0rtt.K5nplaPtKrmxPdBGR938C1uPLV8HxFpWJWQsijgQrh8&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
@@ -64,6 +58,14 @@ vless://193c75c1-1af1-484a-84ec-14de4828d209@hk.griffon-guard.com:443?security=r
 vless://193c75c1-1af1-484a-84ec-14de4828d209@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?encryption=none&type=tcp&headerType=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://198f5b81-5a14-4468-f68f-09cec97ba18b@94.184.17.220:443?encryption=none&type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?encryption=none&type=tcp&headerType=http&host=check-host.net&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206ZHBHakE0R2t6VjI4UVBEWXpFcDk0Y1Rl@180.149.228.179:49514#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@89.238.133.123:50695#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@45.43.19.68:50695#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@37.19.211.114:50695#🔥Join+Telegram:@Farah_VPN🟣
@@ -95,5 +97,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:3306#🔥Join+Telegram:@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.244.165:3389#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.244.165:3306#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5601#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5601#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5600#🔥Join+Telegram:@Farah_VPN🟣
