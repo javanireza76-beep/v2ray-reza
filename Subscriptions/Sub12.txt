@@ -106,8 +106,6 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@166.1.36.83:443?encryption=none&securi
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@178.62.25.163:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=#🔥Join+Telegram:@Farah_VPN🟣
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
-trojan://bef1e608-83df-4935-8169-8a345f5643e9@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.144.208:3423?sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#🔥Join+Telegram:@Farah_VPN🟣
@@ -142,3 +140,5 @@ trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@mki.huangzi.eu.cc:443/?security=tl
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@27.122.59.45:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=45.32.28.232&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://7M72gQuaaH@148.251.173.125:16512?type=tcp&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+trojan://869e9086806483ca4744a4cb0f3d6e16@52.195.170.6:491?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🔥Join+Telegram:@Farah_VPN🟣
