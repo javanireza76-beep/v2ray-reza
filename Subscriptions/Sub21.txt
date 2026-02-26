@@ -94,7 +94,6 @@ ss://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.0:443?security=tls&sni=dn.y
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.99.19:443?security=tls&sni=ln.kpcloud.eu.org&type=ws&host=ln.kpcloud.eu.org&path=/?ed=2048#🔥Join+Telegram:@Farah_VPN🟣
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.204:443?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#🔥Join+Telegram:@Farah_VPN🟣
 ss://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.74.206:2096?type=ws&security=tls&sni=INdex.HArmony702.WoRkeRS.Dev&host=index.harmony702.workers.dev&path=/axcp1cm75o7digvt#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -126,3 +125,4 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.crea
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🔥Join+Telegram:@Farah_VPN🟣
