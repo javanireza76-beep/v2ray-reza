@@ -178,3 +178,14 @@ vless://7c607c15-6c0c-60e6-602e-08936fca83c3@lord.socialxxmedia.pro:440?security
 vless://cc2c5e42-1693-4d54-8e03-afbaf88a93f@94.183.241.82:1000?securit#🔥Join+Telegram:@Farah_VPN🟣
 trojan://E5upXZIZ7L@ir1.iobase.ir:443?type=tcp&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://cc2c5e42-1693-4d54-8e03-afbaf88a93@94.183.241.82:1000?securit#🔥Join+Telegram:@Farah_VPN🟣
+vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://49855d97-2d13-453b-84b7-1d94af760777@185.141.107.110:11178?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://21348deb-2fb5-434b-8ac7-f074966cb387@185.36.228.212:37515?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@140.248.159.164:80?encryption=none&security=none&type=ws&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#🔥Join+Telegram:@Farah_VPN🟣
+vless://a6c79c8c-8682-4287-aabb-660143de38b7@s1.fastsnap.info:29253?encryption=none&security=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://e48be4e6-04ee-4405-8749-4e8043202c0b@94.183.176.134:7474?encryption=none&security=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://e341f75d-fd58-4d81-8445-6d4d3f9dfedb@s31.laptopstock7.com:9975?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J-UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MiLCAiYWRkIjogIjkxLjEwNy4xODYuMTk3IiwgInBvcnQiOiAyNjEzNiwgImlkIjogImI5NTQ4ZWY4LTE2YWMtNDI0YS1hNmRhLTFkZThjMjdiMTc3OCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSJ9
+vless://40470655-97a2-425a-90eb-8a0c2d0dbf15@s8.lebon-network.com:8585?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=arz.radargame.site#🔥Join+Telegram:@Farah_VPN🟣
