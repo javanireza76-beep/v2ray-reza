@@ -191,3 +191,10 @@ vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?securit
 vless://494a6949-76af-4a2d-86b3-516eeeb5e856@87.107.108.37:103?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAic3YxLm94eXBpbmdib3QuaW4iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsICJpZCI6ICI0MWZkYjc4OC0zOWVmLTQyMjYtOGRlYS1hMzg1YWU5YWQ1NWYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyODA5OCIsICJwcyI6ICLwn5SlSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO8J-foyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
 vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c3e909cc-584b-4c62-af48-34c9acef928b@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiZGUtMi10dW4uaGVhbGluZ2ZsdWVuY2Uub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInRlbGV3ZWJpb24uY29tIiwgImlkIjogIjViYTczYmJhLWIxNWQtNDM1Mi05ODhkLWIxNGIxZTYxYWI1ZiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwODAiLCAicHMiOiAi8J-UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+vless://04f1729c-1d6c-4405-8834-8e1131221ee6@v2.punakpark.com:946?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://c4c09531-58b4-43ce-aff3-b7f9d15225cf@mx2.tehrantolidi.ir:80?path=%2Fsite&security=none&encryption=none&host=dcparvaz.global.ssl.fastly.net&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://1bc7bd97-679c-4ebb-8eea-3a048c3457cf@84.200.33.52:7070?type=tcp&encryption=none&path=%2F&host=testspeed-foreign.tci.ir&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@63.183.63.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
