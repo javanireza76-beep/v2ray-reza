@@ -97,6 +97,7 @@ ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@154.17.31.
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@3.228.217.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@44.198.54.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
@@ -129,4 +130,3 @@ trojan://telegram-id-privatevpns@13.39.41.207:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-directvpn@13.39.97.14:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@13.39.41.207:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🔥Join+Telegram:@Farah_VPN🟣
