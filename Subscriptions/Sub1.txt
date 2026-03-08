@@ -81,3 +81,7 @@ vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls
 vless://91bc1c9b-e57d-43b4-903c-3a224dbabc7d@it.trevia.sbs:443?type=tcp&encryption=none&security=tls&fp=&alpn=#🔥Join+Telegram:@Farah_VPN🟣
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@154.17.31.189:18829#🔥Join+Telegram:@Farah_VPN🟣
+vless://320ac7a4-91c0-44dd-b892-ef3e946ac1b0@it.trevia.sbs:443?type=tcp&encryption=none&security=tls&fp=&alpn=#🔥Join+Telegram:@Farah_VPN🟣
+vless://f863a208-8b1a-4829-b952-140c5dc76849@airman-defense.oblivionspark.com:5874?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://ba7444ef-a436-4ad0-8fa8-2cc933b6e96f@31.25.95.10:53571?security=&encryption=none&host=bale.ai%2Cweb.igap.net%2Cigap.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://8638f2b6-15d1-4889-9735-8a2e5e2cac80@vipde7.persianpinggame.com:9094?security=none&type=tcp&headerType=http&path=%2F&host=filmnet.ir#🔥Join+Telegram:@Farah_VPN🟣
