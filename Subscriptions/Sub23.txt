@@ -120,3 +120,14 @@ trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&amp;sni=tro
 trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&amp;security=tls&amp;host=small-morning-2668.drusavm.workers.dev&amp;type=ws&amp;sni=small-morning-2668.drusavm.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.39.41.207:22222?security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://9ym3zj48-h052-pbnn-kros-xjwnvo29z60q@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
+trojan://duhxxip1-rqwu-nt11-zjy7-1yktd91z3kwy@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@chat.openai.com:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&fp=chrome&sni=www.calmlunch.com&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://jlys0j9l-xrq4-qdh9-kbuw-knbot6vmq1qy@127.0.0.1:4080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://lzv0rvrg-2ajj-lfnk-8kxy-3ofj1lkq121h@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://racmc31n-ceu1-maz4-2tnu-kxccpih542q2@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.176.126.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://x4dhunap-nfuo-2qt8-a6jf-3gv70kyxqfdp@127.0.0.1:4080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
