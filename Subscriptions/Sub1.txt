@@ -146,3 +146,5 @@ vless://b469b022-034c-4612-a0ce-c2a018b99b73@45.130.125.160:2095?path=%2F%3Fed%3
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#🔥Join+Telegram:@Farah_VPN🟣
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sid=1a24af87&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🔥Join+Telegram:@Farah_VPN🟣
+vless://a24acac5-23f6-4cad-bfe3-6bc77ef95804@fans1.mahoshid.ir:9560?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://a1fd994b-567a-4e1d-9e03-6af688cf479d@IR-FanAva2-AlphaOmega.AlphaOmegaVIP.IR:200?security=none&encryption=none&host=www.soft98.ir.&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
