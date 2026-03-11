@@ -14,3 +14,7 @@ vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.74.206:2096?allowInsecure=1&
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.192.237.186:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://9034bcde-e07c-4b21-aa3c-966d6015686c@dual0.melowashere.com:48782?encryption=none&security=none&type=ws&path=%2Fmelo#🔥Join+Telegram:@Farah_VPN🟣
+vless://c4e2512d-060c-59a7-ad20-be4284298eeb@thesis.mhub-mc.ir:3010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=8DGDiqDs99PvQGTjFh4Xu_4DmuKbk5bDJsUb73gEzW0&sid=e32df1fa9070e48e&type=tcp&headerType=none1133#🔥Join+Telegram:@Farah_VPN🟣
+vless://c4e2512d-060c-59a7-ad20-be4284298eeb@thesis.mhub-mc.ir:3010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=8DGDiqDs99PvQGTjFh4Xu_4DmuKbk5bDJsUb73gEzW0&sid=e32df1fa9070e48e&type=tcp&headerType=none113#🔥Join+Telegram:@Farah_VPN🟣
