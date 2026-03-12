@@ -161,3 +161,10 @@ trojan://telegram-id-privatevpns@3.127.99.68:22222?security=tls&alpn=http/1.1&he
 vless://b130c9b8-5e2f-4f96-9981-f70a8b1163f3@ne4.nilovip.net.tr:6512?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5@bl.khakimilad.online:58992?security=&encryption=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.127.99.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://3eb0dd7d-1c6b-11f1-9350-92000723b4ab@dlc-new3.persianpinggame.com:5103?security=none&type=tcp&headerType=http&path=%2F&host=filmnet.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://c71575ee-4e0c-47f7-884b-2ead7fa2feaa@dl-film.digitalvortex.ir:3038?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://657ff25f-5f69-4201-99fb-0e7908940b66@162.55.190.0:443/?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://45099c5b-b11f-4149-9a27-fe6434f96320@162.55.190.0:443/?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://0550f298-5b80-4762-83cc-2e5ecdb30c1e@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://9f8a8c74-49fc-4f06-8885-3f438dd71a49@162.55.190.0:443/?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
