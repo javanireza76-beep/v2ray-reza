@@ -196,3 +196,5 @@ trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#🔥Join+Telegram:@Farah_VPN🟣
 trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#🔥Join+Telegram:@Farah_VPN🟣
+vless://6230f6ae-e514-4a4c-a403-389b5a78698f@tt.onepiecefamily.ir:57263?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://1292f33d-5f7d-7102-61bb-a0df21123b54@promax.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
