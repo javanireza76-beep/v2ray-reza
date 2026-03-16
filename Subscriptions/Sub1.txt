@@ -193,3 +193,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?encryption=none&t
 vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@15.188.103.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#🔥Join+Telegram:@Farah_VPN🟣
+trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#🔥Join+Telegram:@Farah_VPN🟣
