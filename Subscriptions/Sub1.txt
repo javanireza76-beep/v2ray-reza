@@ -49,3 +49,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.3.38:22224?type=ws&security=
 trojan://telegram-id-privatevpns@15.224.3.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.82.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&path=%2Fhttp#🔥Join+Telegram:@Farah_VPN🟣
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?encryption=none&security=none&type=tcp&headerType=http&host=check-host.net#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#🔥Join+Telegram:@Farah_VPN🟣
+vless://b10aaf79-0721-454b-9d82-6418413561b8@89.149.243.213:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://0e007ced-8c1e-43dd-b09d-fc43866cdf9e@mh52m5fsx0ztzs0jb1r6g4z9mn9o2c.ipsumnetwork.com:8540?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FI&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
