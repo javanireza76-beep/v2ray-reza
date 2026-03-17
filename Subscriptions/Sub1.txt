@@ -21,3 +21,6 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@poe.com:2053?alpn=h2%2Chttp%2F1.1&e
 trojan://bAzbcu87YN@srv7.fastservers.cc:23828?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@chatgpt.com:2096?alpn=h2%2Chttp%2F1.1&encryption=none&host=neww1.workers.dev&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&sni=miti.neww1.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdXJMZU1pbF9sRk1xcENuMlBJWlpn@94.182.175.37:2096#🔥Join+Telegram:@Farah_VPN🟣
+vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@45.15.147.13:10443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=random&spx=%2F&allowinsecure=0&type=xhttp&sni=s3.yandex.net&sid=e499f276e7bd6420#🔥Join+Telegram:@Farah_VPN🟣
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.0.245:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
