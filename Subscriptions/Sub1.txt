@@ -181,3 +181,5 @@ vless://8dc5c357-d110-47ee-8574-6a09e460f553@185.143.233.235:443?path=%2Fvoip&se
 trojan://telegram-id-directvpn@51.45.25.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.45.25.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&type=tcp&headerType=http&host=google.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://cf85488a-6baf-4da8-9364-1628ed9e2b41@star.fast-uploader.net:6002?security=none&encryption=none&host=cafeariel.ir&headerType=http&fp=firefox&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🔥Join+Telegram:@Farah_VPN🟣
