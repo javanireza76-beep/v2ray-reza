@@ -105,3 +105,10 @@ trojan://telegram-id-privatevpns@3.72.160.56:22222?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.160.56:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://biS%28YrwB,3L$@185.143.235.5:443?security=tls&sni=mydigipay.com&type=#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.72.160.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://0c56d165-7005-4655-8b9e-4f6888b50318@144.31.2.176:57172?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=W5ygFi8wqavEaP1uiK9ZYJXEtMT_Kc_OfcYbfj-c2Uw&security=reality&sni=max.ru&spx=%2Fj8ueNoxxUP1mgl9&type=tcp&sid=d5b702262431#🔥Join+Telegram:@Farah_VPN🟣
+vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@5.230.195.101:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#🔥Join+Telegram:@Farah_VPN🟣
+vless://7478ff88-1354-4143-96ce-6c8059273ef0@144.31.1.60:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.amd.com&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI#🔥Join+Telegram:@Farah_VPN🟣
+vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@usa1.santexnika24.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&fp=chrome&sid=23#🔥Join+Telegram:@Farah_VPN🟣
+vless://94986991-74c7-4c8b-acf2-90992059e7f1@jsbsh_jsjsbdixsjsvsjvdj_dhdjdjdkjbsj_b.d2centeerr.sbs:27208?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://b707f5f3-0cd4-42cf-8b1f-ee9a54edb2b9@s1.nimbaha.info:46116?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb05.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🔥Join+Telegram:@Farah_VPN🟣
