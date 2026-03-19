@@ -3,3 +3,12 @@ vless://5a2334d8-cf0f-4be7-8354-ede207e9897e@151.101.3.6:443?mode=packet-up&path
 vless://a9dac221-fda2-44b2-8670-0fe4ee007449@viptun2.persianv2.ir:8443?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06MVBXL2VzaWl6K0hiTUtRTE9GbmpKVlE5TWN1ZElaVWM2K09DK01KTEZLdz0%3D@95.216.238.249:37337#🔥Join+Telegram:@Farah_VPN🟣
 vless://bb3ac8c3-350b-45e3-9f24-e8b86f4bf48c@bdyeuebx.hfiwodbxy.dbsyysbtf.soft98ver2.com:17785?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://420349f3-6024-4457-bde6-b3d11183d728@31.216.62.198:20391?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://937ca7c8-fc8c-4c7d-89e6-5b1cf7014ddf@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.236.3.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.236.3.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.3.3:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3OXc0UE9TVFZtRnY5RTN6ZTNZSXBE@avashop.info:2012/?outline=1#🔥Join+Telegram:@Farah_VPN🟣
+vless://792273d4-3529-4b3d-b282-29deb51f71de@star.fast-uploader.net:6004?type=tcp&encryption=none&host=cafeariel.ir&path=%2F&headerType=http&quicSecurity=none&serviceName=&security=&fp=firefox#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.58.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://cfdb6478-8bf3-4d24-b653-370c9c2ad257@tirfr4.bartarvps1.sbs:2058?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
