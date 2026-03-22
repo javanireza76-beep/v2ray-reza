@@ -130,3 +130,5 @@ vless://c86e795e-e303-4c0b-a118-a7e0c73f6f89@185.213.195.51:27253?security=none&
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.73.207.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.73.207.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure#🔥Join+Telegram:@Farah_VPN🟣
+vless://2271c50f-ac7a-4d7f-8b04…#🔥Join+Telegram:@Farah_VPN🟣
