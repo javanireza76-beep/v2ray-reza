@@ -114,3 +114,5 @@ vless://510e2c1c-5178-4c1b-9181-ec35aa09928e@193.151.158.24:55006?path=%2F&secur
 vless://b91ec7ae-871f-3021-8433-55eaee170ec9@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://887b16f8-f3a1-405d-9c16-21ea6df6e244@v2shop37.bing-net.com:4937?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://18e0d426-cbe2-4e80-a8d0-6af4116ec811@185.243.49.69:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos&path=%2f#🔥Join+Telegram:@Farah_VPN🟣
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
