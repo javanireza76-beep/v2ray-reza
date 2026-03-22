@@ -137,3 +137,10 @@ vless://ea4faa9b-0b43-4e57-8b24-514e9d9f7db9@zhakservice.org:443?path=%2Fassets%
 vless://29884d7f-2d86-4842-8682-380cd361a86f@web.palmal.site:24776?encryption=none&type=tcp&headerType=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://eef019f8-ce5a-4f48-932f-f0fce4ecb0fc@193.242.125.31:11892?type=tcp&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://eef019f8-ce5a-4f48-932f-f0fce4ecb0fc@193.242.125.31:11892?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.237.55.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.237.55.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://e863faa1-7505-493b-963a-909fa5984041@srv1.safeunity.shop:18510?security=&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://eef019f8-ce5a-4f48-932f-f0fce4ecb0fc@193.242.125.31:11892?encryption=none&type=tcp&headerType=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?encryption=none&type=tcp&headerType=http&host=excoino.com&security=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@64.188.106.59:443?security=reality&encryption=none&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=21342134#🔥Join+Telegram:@Farah_VPN🟣
