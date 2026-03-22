@@ -31,3 +31,4 @@ vless://9cfc8cab-2c26-468b-b7b7-269c631ed0d3@web.palmal.site:24776?security=none
 vless://e1111919-2a81-4847-a45c-68c7145a014d@193.151.135.92:15823?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@51.45.15.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.45.15.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://38ed4af4-0156-4ab3-b2da-d6a2a00abf8e@testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir:56758?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
