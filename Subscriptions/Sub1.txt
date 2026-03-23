@@ -18,3 +18,7 @@ vless://9d15d7ab-5867-4857-b813-bf1924510bca@ez.pubgping.com:8080?security=none&
 vless://7984f2cf-b7cd-4197-b046-fb666404a14e@n-s-2.m2nweb.site:2076?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=&fp=chrome&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://a569fc08-2f0d-4cad-bf1f-ada7434c627d@s1.zahedimobile.ir:15432?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://67bfe904-b4d4-41b2-a846-932c8f74bd43@afk.mrsf.ir:52477?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@87.251.69.48:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=at16.fastlanehosting.ru#🔥Join+Telegram:@Farah_VPN🟣
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@15.236.33.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@15.236.33.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
