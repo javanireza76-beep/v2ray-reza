@@ -103,3 +103,12 @@ vless://bbf7ef1c-0068-4627-9be7-75a4b962416e@91.92.182.230:5050?encryption=none&
 vless://af915b8d-3adf-4412-8a4d-2bc835e09944@ir.gafe-lorbad.ir:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://e349eeee-169a-4e50-9512-7a6cfddbf8ee@meeeliii.marzabarvana.com:5355?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJ0MS42MjA3MjAueHl6IiwgInBvcnQiOiAiODQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ0MS42MjA3MjAueHl6IiwgInRscyI6ICJ0bHMifQ==
+vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.25:55057?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206b2hUbWRjcE1La2xXRzlvd09acVRkME5lY3hHYlZiOThHTmJHbVpRd2xTST06QjBXNmxMOHRrVVV4MXFadkpzeWlOcDVQK0pEMjNjSUdnUHp2a2tqeXdxQT0%3D@91.220.113.212:34284#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@51.102.254.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLAogICJhZGQiOiAiMzcuMzIuMjUuMTI2IiwKICAicG9ydCI6IDg0NDMsCiAgImlkIjogIjk5OThmMTg1LTIzZWEtNDU1NS1kYTI0LTM5ZDZlY2YxNjBmMiIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInRscyI6ICJub25lIiwKICAidHlwZSI6ICJub25lIgp9
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@51.102.254.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://b29e21bd-d6d6-4a84-83b0-90cc9cbad5b5@ir.gafe-lorbad.ir:443?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
