@@ -190,3 +190,6 @@ trojan://telegram-id-directvpn@18.159.228.130:22223?security=tls&alpn=http%2F1.1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.130:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?path=%2F&security=tls&encryption=none&host=rayan-007.foton.dpdns.org&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#🔥Join+Telegram:@Farah_VPN🟣
 vless://bb64090f-7332-4f28-9c24-ecaf07c2fb46@trust.maf-borfax.ir:99?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://e1a9ff20-1111-4f5a-a395-123456789abc@79.175.177.239:443?security=reality&encryption=none&pbk=h5qv72RabKBmp7LFCI8y_CcqpUzRYi_W9tWTdKnzTUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=a1b2c3d4#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@35.181.217.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
