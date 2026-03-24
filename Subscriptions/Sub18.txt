@@ -58,10 +58,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?encryption=none
 vless://fb0bc4f7-2771-4223-8ffd-705469a039b7@158.160.223.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=yandex.ru&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://d009167c-a93e-4c06-9f89-ceb45acf14a8@23.81.35.57:443?security=reality&sni=www.samsung.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none&short_id=FxAAUV0UAUhGUQNLChEH#🔥Join+Telegram:@Farah_VPN🟣
 vless://51278ccf-c9ad-438c-b9e7-12de5a9ac021@84.252.136.245:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=c6ef72e4635d15a5#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.70:9098#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#🔥Join+Telegram:@Farah_VPN🟣
@@ -88,6 +84,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#🔥Join+Telegram:@Farah_VPN🟣
+trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&alpn=http/1.1&host=cdir-0203.wlfvip.com&type=ws&sni=cdir-0203.wlfvip.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#🔥Join+Telegram:@Farah_VPN🟣
+trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@3.236.90.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -115,6 +118,3 @@ trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#🔥Join+Telegram:@Farah_VPN🟣
