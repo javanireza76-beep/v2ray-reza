@@ -161,3 +161,8 @@ vless://e6be088f-767b-5704-4a9a-5e9830b8118c@cloud.vpsino.com:48324?security=non
 vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?type=tcp&encryption=none&path=%2F&headerType=http&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://e6be088f-767b-5704-4a9a-5e9830b8118c@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://1c8e42b0-8a2a-4a35-970d-5b28f6438978@46.38.138.39:7777?encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#🔥Join+Telegram:@Farah_VPN🟣
+vless://a2c49c4a-46d9-485d-bbf1-a19a0fba69af@78.157.42.130:13772?security=&encryption=none&host=drive.google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@63.177.162.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@63.177.162.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?encryption=none&type=tcp&headerType=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
