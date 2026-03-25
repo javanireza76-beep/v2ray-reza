@@ -94,3 +94,6 @@ vless://dd5ae38a-5204-4f12-9d2c-a44fc923dba2@llc.feelpower.ir:2042?security=none
 vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@ae2.suio.me:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ae2.suio.me#🔥Join+Telegram:@Farah_VPN🟣
 vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJwYXRoIjogIiIsICJ0eXBlIjogIm5vbmUiLCAiYWRkIjogIm1lbC5pZGJlZGUuY29tIiwgInBvcnQiOiAiODQ0MyIsICJob3N0IjogIiIsICJwcyI6ICLwn5SlSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO8J-foyIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgImlkIjogImQwZjBlZWM2LTdjM2QtNGE2MS1hNDM0LWQ1MGRlMWRhNmExNCJ9
+vless://caf75a11-49ed-4675-8857-5189bad216d8@voip7.divar.mom:55007?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=c385#🔥Join+Telegram:@Farah_VPN🟣
+vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
