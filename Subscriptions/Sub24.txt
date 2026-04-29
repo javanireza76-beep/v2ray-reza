@@ -79,3 +79,10 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;he
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&amp;security=tls&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;sni=Koma-YT.PAGeS.Dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4OE9MojBpg@37.32.20.55:80?security=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4OE9MojBpg@37.32.20.55:80?security=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none@freev2configs#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none@oliver soul#🔥Join+Telegram:@Farah_VPN🟣
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:443?alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=/&sni=sheleqaz.emotionreza.workers.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣
